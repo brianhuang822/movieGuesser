@@ -1,0 +1,3 @@
+This game is where you get an obfuscated plot of a Oscar Nominee best picture and you have to guess what movie it is.
+
+Open the page by going to https://brianhuang822.github.io/movieGuesser
